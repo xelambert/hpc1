@@ -2,7 +2,7 @@
 #PBS -l nodes=1:ppn=1
 #PBS -l walltime=00:02:00
 #PBS -N integral_array
-#PBS -t 1-30
+#PBS -t 1-36
 
 cd $PBS_O_WORKDIR
 
